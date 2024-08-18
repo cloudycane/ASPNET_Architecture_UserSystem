@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\models\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\models\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\servicios\\serviciousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\servicios\\serviciousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\servicios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\servicios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\views\\shared\\_linkslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\views\\shared\\_linkslogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\servicios\\usuariostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\servicios\\usuariostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\manejousuariomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\manejousuariomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\migrations\\20240817112431_algo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\migrations\\20240817112431_algo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|c:\\users\\gesel\\source\\repos\\manejousuariomvc\\manejousuariomvc\\migrations\\20240817112210_algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE7C342-3AE0-47E3-BE66-C1EFE13CAF05}|ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj|solutionrelative:manejousuariomvc\\migrations\\20240817112210_algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:21:54.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Servicios\\ServicioUsuarios.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Servicios\\ServicioUsuarios.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Servicios\\ServicioUsuarios.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Servicios\\ServicioUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:41:14.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:50:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Program.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:00:32.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Usuarios\\Login.cshtml",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Views\\Usuarios\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Usuarios\\Login.cshtml",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Views\\Usuarios\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T00:18:16.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Models\\RegistroViewModel.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Models\\RegistroViewModel.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Models\\RegistroViewModel.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Models\\RegistroViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:47:29.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositorioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Servicios\\RepositorioUsuarios.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Servicios\\RepositorioUsuarios.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Servicios\\RepositorioUsuarios.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Servicios\\RepositorioUsuarios.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAADEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:16:34.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:16:40.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LinksLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Shared\\_LinksLogin.cshtml",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Views\\Shared\\_LinksLogin.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Shared\\_LinksLogin.cshtml",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Views\\Shared\\_LinksLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T22:35:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T22:49:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Models\\Usuario.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:54:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Usuarios\\Registro.cshtml",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Views\\Usuarios\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Views\\Usuarios\\Registro.cshtml",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Views\\Usuarios\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T17:49:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioStore.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Servicios\\UsuarioStore.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Servicios\\UsuarioStore.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Servicios\\UsuarioStore.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Servicios\\UsuarioStore.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:11:02.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240817112431_algo1.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Migrations\\20240817112431_algo1.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Migrations\\20240817112431_algo1.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Migrations\\20240817112431_algo1.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Migrations\\20240817112431_algo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:24:31.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240817112210_algo.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Migrations\\20240817112210_algo.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Migrations\\20240817112210_algo.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Migrations\\20240817112210_algo.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Migrations\\20240817112210_algo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:22:10.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManejoUsuarioMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj",
+              "RelativeToolTip": "ManejoUsuarioMVC\\ManejoUsuarioMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T11:21:13.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ManejoUsuarioMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:01:43.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ManejoUsuarioMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ManejoUsuarioMVC\\ManejoUsuarioMVC\\appsettings.json",
+              "RelativeToolTip": "ManejoUsuarioMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T10:59:37.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
